@@ -1,6 +1,19 @@
-box-sizing: border-box
-overflow: hidden
-display: inline-block
-object-fit: cover
-position: absolute
-opacity: 0.9
+
+<div class="box box-1"></div>
+<div class="box" id="one">One</div>
+
+div > span  - обращение к span в div
+.userCard > * - все элементы в классе
+.userFoto img - все img в классе
+#ban div > p - обращение к р в div в id="ban"
+#ban p - все р в id="ban"
+
+display: inline-block  https://developer.mozilla.org/ru/docs/Web/CSS/display
+object-fit: cover  https://webref.ru/css/object-fit
+position: absolute (относительно родителя) relative (относительно своего места)  https://developer.mozilla.org/ru/docs/Web/CSS/position
+opacity: 0.9   https://webref.ru/css/opacity
+overflow : hidden;   https://developer.mozilla.org/ru/docs/Web/CSS/overflow
+box-sizing: border-box;   https://developer.mozilla.org/ru/docs/Web/CSS/box-sizing
+
+центрирование блока https://learn.javascript.ru/css-center
+
