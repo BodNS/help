@@ -1,0 +1,6 @@
+box-sizing: border-box
+overflow: hidden
+display: inline-block
+object-fit: cover
+position: absolute
+opacity: 0.9

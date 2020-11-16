@@ -1,0 +1,9 @@
+git+windows
+
+установить git https://git-scm.com/download/win
+в VS Code установить плагин
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+ 
+
+"ѕроводник"
+https://desktop.github.com/
